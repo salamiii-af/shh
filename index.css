@@ -45,7 +45,7 @@ button{
 }
 
 #response-text{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     font-size: xx-large;
     color: pink;
 }
